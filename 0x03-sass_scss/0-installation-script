@@ -1,0 +1,13 @@
+1. Installed Node.js on Windows.
+2. Opened VS Code.
+3. Opened the alx-intermediate-frontend folder.
+4. Opened the VS Code terminal.
+5. Created the folder 0x03-sass_scss.
+6. Installed Sass with the command: npm install sass -v 3.7.4
+7. Created the file 0-installation-script.
+
+8. Added the command npm install sass -v 3.7.4 to the file 0-installation-script.
+9. Made the file executable with the command: chmod +x 0-installation-script.
+10. Verified the installation script by running: ./0-installation-script
+#!/bin/bash
+npm install sass -v 3.7.4
